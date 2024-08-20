@@ -4,10 +4,28 @@ How to open it:
 So there are different ways of opening the shell.
     1. Press windows key, and then search command prompt/terminal/shell to open it.
     2. Or use the shortcut which I use everyday: Ctrl+Alt+T
+
 After doing so you'll have the shell opened in your computer. To enlarge the shell use the shortcut: Ctrl+Shift+"+"
 Now, getting into the commands used in the shell.
 An important point to remember that the shell is strictly typed meaning it is case-sensitive (Just like Python).
+
 Now, as you get to learn different types of commands make sure to execute and test them so that it'll get used to your practical knowledge.
 1. The first command:
+
     pwd
+
+    This will return the directory you are working in. For example, (Documents, Downloads, Music, etc...)
+    Now, it stands for print working directory. Make sure to keep checking the directory since you might make the changes in the wrong directory which is going to lead you into a hectic problem.
+
+Now that we have seen how to see the current directory, let's see how to change directories within the shell.
+2. Change directory:
+
+    cd
+
+    This command has to be used with 0 or 1 argument. 
+
+    cd <directory_name>
+
+    Now, type in and see "cd Downloads" and then use "pwd" to check the current directory.
+    To return to the same default directory, that is, home type in: **cd**
 
