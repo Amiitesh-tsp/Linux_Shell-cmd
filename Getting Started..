@@ -1,5 +1,6 @@
 First, When you start operating into a linux system, there is a very popular word so called Terminal. Now, There are different ways of referring to the terminal.
 They call it terminal, prompt or the command prompt, the bash shell, the linux shell, etc... The more you use it, the more you get used to it.
+
 How to open it:
 So there are different ways of opening the shell.
     1. Press windows key, and then search command prompt/terminal/shell to open it.
@@ -28,4 +29,36 @@ Now that we have seen how to see the current directory, let's see how to change 
 
     Now, type in and see "cd Downloads" and then use "pwd" to check the current directory.
     To return to the same default directory, that is, home type in: "cd"
+
+    Now,
+
+    cd / : Will take you to a unified-file system. Usually, Windows contains drives split up as "C:" whereas Linux does not split up the disks instead they have a unified-file system which can be accessed by " cd / ".
+
+Now Creating Folders and Files in a shell.
+
+To create a directory in Linux:
+
+    mkdir <directory_name>
+
+    In mkdir we can create as many as directories as we want which means that we can have n number of arguments seperated by space for this command.
+
+    If we want to create folder names seperated by space we have to name them within quotes.
+    For Example:
+
+    mkdir "Folder 1"
+
+    But usually nobody ever use space seperated names for files instead they use underscore(_).
+    A shell user can be identified by the way they name their files.
+
+    mkdir dir1 dir2 dir3: This will create three directories with the respective names.
+    mkdir -p dir4/dir5/dir6: Now, "-p" here is called as options there are many different options but for now just keep in mind that these are called options. Remember "The more you use, the more you'll get used to it".
+                            This command will create dir5 inside dir4 and dir6 inside dir5.
+
+To view the files and directories in the shell:
+
+    ls
+
+    The ls command returns all the directories and files that are present in the system.
+    Try changing the directory using "cd" and try using "ls" will return the files that are present inside the Direcotory that we are currently working in.
+    
 
