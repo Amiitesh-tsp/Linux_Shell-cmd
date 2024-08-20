@@ -1,8 +1,13 @@
 First, When you start operating into a linux system, there is a very popular word so called Terminal. Now, There are different ways of referring to the terminal.
 They call it terminal, prompt or the command prompt, the bash shell, the linux shell, etc... The more you use it, the more you get used to it.
+How to open it:
 So there are different ways of opening the shell.
     1. Press windows key, and then search command prompt/terminal/shell to open it.
     2. Or use the shortcut which I use everyday: Ctrl+Alt+T
 After doing so you'll have the shell opened in your computer. To enlarge the shell use the shortcut: Ctrl+Shift+"+"
-
+Now, getting into the commands used in the shell.
+An important point to remember that the shell is strictly typed meaning it is case-sensitive (Just like Python).
+Now, as you get to learn different types of commands make sure to execute and test them so that it'll get used to your practical knowledge.
+1. The first command:
+    pwd
 
