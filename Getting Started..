@@ -3,4 +3,6 @@ They call it terminal, prompt or the command prompt, the bash shell, the linux s
 So there are different ways of opening the shell.
     1. Press windows key, and then search command prompt/terminal/shell to open it.
     2. Or use the shortcut which I use everyday: Ctrl+Alt+T
-After doing so you'll have something like this:
+After doing so you'll have the shell opened in your computer. To enlarge the shell use the shortcut: Ctrl+Shift+"+"
+
+
