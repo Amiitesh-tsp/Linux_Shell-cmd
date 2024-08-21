@@ -90,5 +90,7 @@ Now, what if you have to combine all the text files and add them into a combined
 
     The above command creates "combined.txt" file and adds all the content of three files into one single folder. (Saves a lot of time isn't it?) Much simpler than Windows.
 
+Now, that we have seen how to create files, folders and directories in the next file we'll see how we move and manipulate files.
+
     
 
