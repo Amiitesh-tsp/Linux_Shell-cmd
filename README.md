@@ -36,9 +36,13 @@ sudo apt install git
 ```bash
 sudo pacman -S git
 ```
-### Fedora/rpm-based
+### Fedora/CentOS/rpm-based
 ```bash
 sudo dnf install git
+```
+or
+```bash
+yum install git
 ```
 ## Command Categories
 - **File Management**: Commands to create, delete, and manage files and directories.
