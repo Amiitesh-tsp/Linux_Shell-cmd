@@ -36,6 +36,10 @@ sudo apt install git
 ```bash
 sudo pacman -S git
 ```
+### 
+```bash
+sudo dnf install git
+```
 ## Command Categories
 - **File Management**: Commands to create, delete, and manage files and directories.
 - **Text Processing**: Tools for searching, editing, and manipulating text files.
