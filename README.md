@@ -36,7 +36,7 @@ sudo apt install git
 ```bash
 sudo pacman -S git
 ```
-### 
+### Fedora/rpm-based
 ```bash
 sudo dnf install git
 ```
