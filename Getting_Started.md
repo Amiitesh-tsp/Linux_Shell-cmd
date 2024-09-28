@@ -84,18 +84,18 @@ How to read a created file,
 
     cat <file_name>
 
-    This will help us in reading the file that exist in your computer. Now, to read all the files which have the same names.
+   This will help us in reading the file that exist in your computer. Now, to read all the files which have the same names.
     In this case, Let's have three file names, t1.txt, t2.txt, t3.txt
 
     cat t*
     cat t?
 
-    Both of the above commands read all the files t1, t2, t3 in the next consecutive lines. Try and check it out for yourself.
+   Both of the above commands read all the files t1, t2, t3 in the next consecutive lines. Try and check it out for yourself.
 
 Now, what if you have to combine all the text files and add them into a combined file
 
     cat t* > combined.txt
 
-    The above command creates "combined.txt" file and adds all the content of three files into one single folder. (Saves a lot of time isn't it?) Much simpler than Windows.
+   The above command creates "combined.txt" file and adds all the content of three files into one single folder. (Saves a lot of time isn't it?) Much simpler than Windows.
 
 Now, that we have seen how to create files, folders and directories in the next file we'll see how we move and manipulate files.
