@@ -67,10 +67,10 @@ To view the files and directories in the shell:
     ls
 
    The ls command returns all the directories and files that are present in the system.
-    Try changing the directory using "cd" and try using "ls" will return the files that are present inside the Direcotory that we are currently working in.
+    Try changing the directory using ```cd``` and try using ```ls``` will return the files that are present inside the Direcotory that we are currently working in.
 
 Now, remember the
-print("Hello World") from python
+```print("Hello World")``` from python
 Similarly, in shell we have the command echo
 
     echo "<text>"
