@@ -90,7 +90,7 @@ How to read a created file,
     cat t*
     cat t?
 
-   Both of the above commands read all the files t1, t2, t3 in the next consecutive lines.\ 
+   Both of the above commands read all the files t1, t2, t3 in the next consecutive lines. \ 
 Try and check it out for yourself.
 
 Now, what if you have to combine all the text files and add them into a combined file
