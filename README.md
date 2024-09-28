@@ -44,6 +44,14 @@ or
 ```bash
 yum install git
 ```
+### OpenSUSE
+```bash
+sudo zypper install git
+```
+### Gentoo
+```bash
+sudo emerge git
+```
 ## Command Categories
 - **File Management**: Commands to create, delete, and manage files and directories.
 - **Text Processing**: Tools for searching, editing, and manipulating text files.
