@@ -52,6 +52,10 @@ sudo zypper install git
 ```bash
 sudo emerge git
 ```
+### NixOS
+```bash
+nix-env -iA nixpkgs.<package_name>
+```
 ## Command Categories
 - **File Management**: Commands to create, delete, and manage files and directories.
 - **Text Processing**: Tools for searching, editing, and manipulating text files.
