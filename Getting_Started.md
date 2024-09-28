@@ -31,7 +31,7 @@ Now that we have seen how to see the current directory, let's see how to change 
     To return to the same default directory, that is, home type in: "cd"
 
    Now,\
-   To take you to a unified-file system. Usually, Windows contains drives split up as "C:" whereas Linux does not split up the disks instead they have a unified-file system which can be accessed by " cd / ".
+   To take you to a unified-file system. Usually, Windows contains drives split up as "C:" whereas Linux does not split up the disks instead they have a unified-file system which can be accessed by " cd  / ".
 
     cd /
 
