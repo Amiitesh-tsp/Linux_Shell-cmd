@@ -11,11 +11,11 @@ Now, getting into the commands used in the shell.
 An important point to remember that the shell is strictly typed meaning it is case-sensitive (Just like Python).
 
 Now, as you get to learn different types of commands make sure to execute and test them so that it'll get used to your practical knowledge.
-1. The first command:
+1) The first command:
    
-    pwd
+       pwd
 
-    This will return the directory you are working in. For example, (Documents, Downloads, Music, etc...)
+   This will return the directory you are working in. For example, (Documents, Downloads, Music, etc...)
     Now, it stands for print working directory. Make sure to keep checking the directory since you might make the changes in the wrong directory which is going to lead you into a hectic problem.
 
 Now that we have seen how to see the current directory, let's see how to change directories within the shell.
@@ -47,12 +47,12 @@ To create a directory in Linux:
 
     In mkdir we can create as many as directories as we want which means that we can have n number of arguments seperated by space for this command.
 
-    If we want to create folder names seperated by space we have to name them within quotes.
+   If we want to create folder names seperated by space we have to name them within quotes.
     For Example:
 
     mkdir "Folder 1"
 
-    But usually nobody ever use space seperated names for files instead they use underscore(_).
+   But usually nobody ever use space seperated names for files instead they use underscore(_).
     A shell user can be identified by the way they name their files.
 
     mkdir dir1 dir2 dir3: This will create three directories with the respective names.
