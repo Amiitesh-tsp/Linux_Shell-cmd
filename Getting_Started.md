@@ -15,7 +15,7 @@ Now, as you get to learn different types of commands make sure to execute and te
    
        pwd
 
-This will return the directory you are working in. For example, (Documents, Downloads, Music, etc...)
+    This will return the directory you are working in. For example, (Documents, Downloads, Music, etc...)
 Now, it stands for print working directory. Make sure to keep checking the directory since you might make the changes in the wrong directory which is going to lead you into a hectic problem.
 
 Now that we have seen how to see the current directory, let's see how to change directories within the shell.\
