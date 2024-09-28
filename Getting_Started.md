@@ -21,11 +21,11 @@ Now, it stands for print working directory. Make sure to keep checking the direc
 Now that we have seen how to see the current directory, let's see how to change directories within the shell.\
 2. Change directory:
 
-    cd
+       cd
 
    This command has to be used with 0 or 1 argument. 
 
-    cd <directory_name>
+       cd <directory_name>
 
    Now, type in and see "cd Downloads" and then use "pwd" to check the current directory.
     To return to the same default directory, that is, home type in: "cd"
