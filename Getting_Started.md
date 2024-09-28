@@ -23,21 +23,24 @@ Now that we have seen how to see the current directory, let's see how to change 
 
     cd
 
-    This command has to be used with 0 or 1 argument. 
+   This command has to be used with 0 or 1 argument. 
 
     cd <directory_name>
 
-    Now, type in and see "cd Downloads" and then use "pwd" to check the current directory.
+   Now, type in and see "cd Downloads" and then use "pwd" to check the current directory.
     To return to the same default directory, that is, home type in: "cd"
 
-    Now,
+   Now,\
+   To take you to a unified-file system. Usually, Windows contains drives split up as "C:" whereas Linux does not split up the disks instead they have a unified-file system which can be accessed by " cd / ".
 
-    cd / : Will take you to a unified-file system. Usually, Windows contains drives split up as "C:" whereas Linux does not split up the disks instead they have a unified-file system which can be accessed by " cd / ".
+    cd /
 
-    cd - : This command will take you to the previous directory visited in the same path.
-        Example:
-            Suppose we enter a file in pictures directory => /home/username/Pictures/images
-            Using cd - will take us to "Pictures Directory", that is, the directory before images.
+   This command will take you to the previous directory visited in the same path.
+
+    cd -
+   Example:
+         Suppose we enter a file in pictures directory => /home/username/Pictures/images
+         Using cd - will take us to "Pictures Directory", that is, the directory before images.
     
 Now Creating Folders and Files in a shell.
 
