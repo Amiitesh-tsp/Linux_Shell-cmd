@@ -12,8 +12,9 @@ An important point to remember that the shell is strictly typed meaning it is ca
 
 Now, as you get to learn different types of commands make sure to execute and test them so that it'll get used to your practical knowledge.
 1. The first command:
-
+   ```md
     pwd
+   ```
 
     This will return the directory you are working in. For example, (Documents, Downloads, Music, etc...)
     Now, it stands for print working directory. Make sure to keep checking the directory since you might make the changes in the wrong directory which is going to lead you into a hectic problem.
