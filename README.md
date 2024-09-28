@@ -3,7 +3,7 @@
 Welcome to the **Learn Linux Shell Commands** repository! This project is designed to help beginners and intermediate users alike become proficient with Linux shell commands. Whether you're looking to improve your command-line skills or automate tasks, this repository has you covered.
 
 ## Why the use of Terminal
-The main reason why Linux and MacOS is a powerful Operating System when compared to Windows in the field of Programming, Semiconductors and much more is because of their powerful command window which we call by many names like bash, terminal, etc. Since Linux is open source its customizability and individual developers have developed apps which make the terminal experience a beautiful yet a powerful one. There are many plugins and CLIs that you can add to the terminal for quick access of complex softwares like LLMs,Git, accessing manga from the terminal and much more.\
+The main reason why Linux and MacOS is a powerful Operating System when compared to Windows in the field of Programming, Semiconductors and much more is because of their powerful command window which we call by many names like bash, terminal, etc. Since Linux is open source its customizability and individual developers have developed apps which make the terminal experience a beautiful yet a powerful one. There are many plugins and CLIs that you can add to the terminal for quick access of complex softwares like LLMs, Git, accessing manga from the terminal and much more.\
 Learning Linux is a oppurtunity **you never want to miss**
 
 
