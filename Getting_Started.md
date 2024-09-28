@@ -2,8 +2,8 @@ First, When you start operating into a linux system, there is a very popular wor
 They call it terminal, prompt or the command prompt, the bash shell, the linux shell, etc... **"The more you use it, the more you get used to it."**
 
 How to open it:
-So there are different ways of opening the shell.
-    1. Press windows key, and then search command prompt/terminal/shell to open it.
+So there are different ways of opening the shell.\
+    1. Press windows key, and then search command prompt/terminal/shell to open it.\
     2. Or use the shortcut which I use everyday: Ctrl+Alt+T
 
 After doing so you'll have the shell opened in your computer. To enlarge the shell use the shortcut: Ctrl+Shift+"+"
