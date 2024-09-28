@@ -48,7 +48,7 @@ To create a directory in Linux:
 
     mkdir <directory_name>
 
-    In mkdir we can create as many as directories as we want which means that we can have n number of arguments seperated by space for this command.
+   In mkdir we can create as many directories as we want which means that we can have n number of arguments seperated by space for this command.
 
    If we want to create folder names seperated by space we have to name them within quotes.
     For Example:
@@ -58,7 +58,7 @@ To create a directory in Linux:
    But usually nobody ever use space seperated names for files instead they use underscore(_).
     A shell user can be identified by the way they name their files.
 
-    mkdir dir1 dir2 dir3: This will create three directories with the respective names.
+    mkdir dir1 dir2 dir3: To create three directories with the respective names.
     mkdir -p dir4/dir5/dir6: Now, "-p" here is called as options there are many different options but for now just keep in mind that these are called options. Remember "The more you use, the more you'll get used to it".
                             This command will create dir5 inside dir4 and dir6 inside dir5.
 
