@@ -1,5 +1,5 @@
 First, When you start operating into a linux system, there is a very popular word so called Terminal. Now, There are different ways of referring to the terminal.
-They call it terminal, prompt or the command prompt, the bash shell, the linux shell, etc... The more you use it, the more you get used to it.
+They call it terminal, prompt or the command prompt, the bash shell, the linux shell, etc... **"The more you use it, the more you get used to it."**
 
 How to open it:
 So there are different ways of opening the shell.
