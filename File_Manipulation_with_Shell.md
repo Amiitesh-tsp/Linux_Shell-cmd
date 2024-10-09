@@ -44,3 +44,30 @@ Welcome to this file that includes file manipulation commands of the Linux Termi
    I have given the commands on how to install softwares in different distros in the Readme.md file on how to install git. Just change the `git` to 
    `tree` to install the tree terminal command. \
    I'll explain more of these commands in the upcoming directory which makes our terminal experience a bliss.
+
+8. The `less` command:
+   ```bash
+   less <file_name>
+   ```
+   This command is used to view the contents of the file one screen at a time. \
+   This is useful to view the file so that the contents of the file does not seem excessive and making us comfortable in what we work with.
+   
+9. The `more` command:
+   ```bash
+   more <file_name>
+   ```
+   This command is used to view the whole file one at a time, unlike the `less` command which allows us to navigate through the pages one at a time using the up/down keys.
+
+10. The `head` command:
+    ```bash
+    head <file_name>
+    ```
+    This command is used to view the first few lines of the text file. It further has options like `-n` and `-c` which allows us to specify the number of lines and number of letters to view. Example:
+    ```bash
+    head -n 20 <file_name>
+    ```
+    The above command lets us view the first 20 lines of the file.
+    ```bash
+    tail -c 20 <file_name>
+    ```
+    The above command lets us view the first 20 characters of the text file.
